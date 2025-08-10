@@ -20,7 +20,7 @@ Plotly for visualization
 Candlestick chart with Moving Average overlay.
 
 RSI indicator in the same interactive chart.
-![AAPL Technical Analysis](aapl_chart.png)
+![AAPL Technical Analysis](aapl_chart.png.png)
 1. Moving Average & Price
 ![Moving Average](moving_average_and_price_chart.png)
 
