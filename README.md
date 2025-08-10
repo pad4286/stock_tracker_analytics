@@ -16,7 +16,8 @@ Plotly for visualization
 Candlestick chart with Moving Average overlay.
 RSI indicator in the same interactive chart.
 
-![AAPL Technical Analysis](aapl_chart.png.png)
+
+AAPL CHART![AAPL Technical Analysis](aapl_chart.png.png)
 
 RSI (Relative Strength Index)
 ![RSI Chart](rsi_chart.png)
